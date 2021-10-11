@@ -20,6 +20,7 @@ HTML Lab requirements:
 
 <br>
 > For this Lab, fork this github repo to your account, add the required files, and push the solution to your repo.
+> 
 ## **Bonus HTML Homework: Create a web page that produces the image BonusHW.png**
 
 
